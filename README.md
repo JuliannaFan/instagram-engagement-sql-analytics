@@ -2,7 +2,7 @@
 
 ## 2. One-sentence value proposition
 
-A recruiter-ready MySQL portfolio project that turns 218 synthetic Instagram interaction records into reproducible insights about content performance, attention, creators, hashtags, devices, sentiment, reactions, and audience behavior.
+MySQL portfolio project that turns 218 synthetic Instagram interaction records into reproducible insights about content performance, attention, creators, hashtags, devices, sentiment, reactions, and audience behavior.
 
 ## 3. Project overview
 
@@ -122,7 +122,7 @@ instagram-engagement-sql-analytics/
 Requirements: Docker Desktop and a MySQL client.
 
 ```bash
-git clone https://github.com/yfandd520-stack/instagram-engagement-sql-analytics.git
+git clone https://github.com/JuliannaFan/instagram-engagement-sql-analytics.git
 cd instagram-engagement-sql-analytics
 cp .env.example .env
 docker compose up -d
@@ -303,4 +303,3 @@ The full tests are in [`sql/02_data_quality_checks.sql`](sql/02_data_quality_che
 - Data-quality validation and integrity testing
 - Business-question framing and evidence-based communication
 - Technical documentation and reproducible result generation
-
